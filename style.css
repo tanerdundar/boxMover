@@ -1,0 +1,9 @@
+.trial {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+p {
+  font-size: 40px;
+}
